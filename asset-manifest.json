@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.85a9faa2.css",
-    "main.js": "/static/js/main.e44f2ad7.js",
-    "static/js/111.ea336b6d.chunk.js": "/static/js/111.ea336b6d.chunk.js",
-    "static/media/pc-home.png": "/static/media/pc-home.31f1818044ca7cc796f4.png",
-    "static/media/Pngtree—a faceless art_8782179.png": "/static/media/Pngtree—a faceless art_8782179.be3ffe0ee2e71abeeb0f.png",
-    "static/media/cruds.png": "/static/media/cruds.d0ce9f85e8a3f85f7821.png",
-    "static/media/HTML5.png": "/static/media/HTML5.2cd5d05c9660ec55992e.png",
-    "static/media/to-do list.png": "/static/media/to-do list.e604befc459669fded3d.png",
-    "static/media/Python.png": "/static/media/Python.65c0e9243c20520b4fdf.png",
-    "static/media/GitHub Codespaces.png": "/static/media/GitHub Codespaces.24fd83693ce785781fe4.png",
-    "static/media/React.png": "/static/media/React.98ff38735baa4c1b0381.png",
-    "index.html": "/index.html",
-    "main.85a9faa2.css.map": "/static/css/main.85a9faa2.css.map",
-    "main.e44f2ad7.js.map": "/static/js/main.e44f2ad7.js.map",
-    "111.ea336b6d.chunk.js.map": "/static/js/111.ea336b6d.chunk.js.map"
+    "main.css": "/ali007-depug/Maap_Portfolio/static/css/main.85a9faa2.css",
+    "main.js": "/ali007-depug/Maap_Portfolio/static/js/main.c5e65055.js",
+    "static/js/111.ea336b6d.chunk.js": "/ali007-depug/Maap_Portfolio/static/js/111.ea336b6d.chunk.js",
+    "static/media/pc-home.png": "/ali007-depug/Maap_Portfolio/static/media/pc-home.31f1818044ca7cc796f4.png",
+    "static/media/Pngtree—a faceless art_8782179.png": "/ali007-depug/Maap_Portfolio/static/media/Pngtree—a faceless art_8782179.be3ffe0ee2e71abeeb0f.png",
+    "static/media/cruds.png": "/ali007-depug/Maap_Portfolio/static/media/cruds.d0ce9f85e8a3f85f7821.png",
+    "static/media/HTML5.png": "/ali007-depug/Maap_Portfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/to-do list.png": "/ali007-depug/Maap_Portfolio/static/media/to-do list.e604befc459669fded3d.png",
+    "static/media/Python.png": "/ali007-depug/Maap_Portfolio/static/media/Python.65c0e9243c20520b4fdf.png",
+    "static/media/GitHub Codespaces.png": "/ali007-depug/Maap_Portfolio/static/media/GitHub Codespaces.24fd83693ce785781fe4.png",
+    "static/media/React.png": "/ali007-depug/Maap_Portfolio/static/media/React.98ff38735baa4c1b0381.png",
+    "index.html": "/ali007-depug/Maap_Portfolio/index.html",
+    "main.85a9faa2.css.map": "/ali007-depug/Maap_Portfolio/static/css/main.85a9faa2.css.map",
+    "main.c5e65055.js.map": "/ali007-depug/Maap_Portfolio/static/js/main.c5e65055.js.map",
+    "111.ea336b6d.chunk.js.map": "/ali007-depug/Maap_Portfolio/static/js/111.ea336b6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85a9faa2.css",
-    "static/js/main.e44f2ad7.js"
+    "static/js/main.c5e65055.js"
   ]
 }
